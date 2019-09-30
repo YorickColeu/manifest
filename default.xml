@@ -2,5 +2,5 @@
 <manifest>
 	<remote name="github" fetch="https://github.com/YorickColeu" />
 	<default revision="master" remote="github"/>
-	<project path="dummyC_Project" name="dummyC_Project" />
+	<project path="dummyC_Project" name="dummyC_Project" revision="output_differ" />
 </manifest>
